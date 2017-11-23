@@ -1,0 +1,23 @@
+#.gitignore#
+
+#Compiled source#
+*.com
+*.class
+*.exe
+*.o
+
+#Packages#
+*.dmg
+*.iso
+*.tar
+*.zip
+*.jar
+*.png
+
+#Logs#
+*.log
+
+#OS files#
+.DS_Store
+.Trashes
+
