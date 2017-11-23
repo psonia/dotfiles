@@ -1,0 +1,15 @@
+#ssh_config#
+
+# UMich GitLab
+Host gitLab
+	HostName   gitlab.com
+	User git
+	IdentityFile ~/ .ssh/psonia_rsa
+
+#CAEN
+Host mmd
+	HostName   login.engin.umich.edu
+	User   psonia
+	Compression   yes
+
+
