@@ -1,0 +1,19 @@
+#.gitconfig#
+
+[user]
+	name = Sonia Patel
+	email = psonia@umich.edu
+	username = psonia
+
+[core]
+	editor = emacs
+	whitespace = fix, -indent-with-non-tab, trailing-space
+	excludesfile = ~/ .gitignore
+[web]
+	browser = google-chrome
+
+[color] 
+	ui = auto
+	status = auto
+	branch = auto
+	diff = auto
